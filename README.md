@@ -7,6 +7,7 @@ Library Management System
 
 ## Deskripsi Singkat
 Library Management System adalah aplikasi desktop yang dibuat menggunakan framework JavaFX yang terintegrasi dengan database PostgreSQL.  
+
 Aplikasi ini digunakan untuk mengelola data buku perpustakaan, seperti menambahkan buku, melihat daftar buku, mengubah status buku (dipinjam/dikembalikan), menghapus buku, serta melakukan pencarian buku berdasarkan judul atau penulis.
 
 Aplikasi ini dibuat dengan menerapkan konsep Object-Oriented Programming (OOP) dan arsitektur MVC (Model–View–Controller).
