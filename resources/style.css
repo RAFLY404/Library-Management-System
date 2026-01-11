@@ -1,0 +1,45 @@
+.root {
+    -fx-font-family: "Segoe UI";
+    -fx-background-color: #f4f6f8;
+}
+
+.table-view {
+    -fx-background-radius: 10;
+    -fx-border-radius: 10;
+}
+
+.input-field, .search-field {
+    -fx-padding: 8;
+    -fx-background-radius: 6;
+    -fx-border-radius: 6;
+}
+
+.search-field {
+    -fx-background-color: white;
+}
+
+.primary-btn {
+    -fx-background-color: #2563eb;
+    -fx-text-fill: white;
+    -fx-background-radius: 6;
+}
+
+.secondary-btn {
+    -fx-background-color: #16a34a;
+    -fx-text-fill: white;
+    -fx-background-radius: 6;
+}
+
+.danger-btn {
+    -fx-background-color: #dc2626;
+    -fx-text-fill: white;
+    -fx-background-radius: 6;
+}
+
+.side-panel {
+    -fx-padding: 10;
+}
+
+.top-panel {
+    -fx-padding: 5;
+}
