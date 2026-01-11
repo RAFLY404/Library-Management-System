@@ -26,7 +26,7 @@ Aplikasi ini dibuat dengan menerapkan konsep Object-Oriented Programming (OOP) d
 
 ## Daftar Class dan Fungsinya
 
-1. **MainApp**  
+1. **Main**  
    Sebagai entry point aplikasi JavaFX dan menampilkan tampilan utama.
 
 2. **DBConfig**  
