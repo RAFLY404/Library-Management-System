@@ -15,12 +15,12 @@ Aplikasi ini dibuat dengan menerapkan konsep Object-Oriented Programming (OOP) d
 
 ## Cara Menjalankan Aplikasi
 1. Pastikan PostgreSQL sudah terinstall dan berjalan
-2. Buat database dengan nama `library_db`
-3. Jalankan script SQL untuk membuat tabel `books`
-4. Jalankan script seeder untuk mengisi data awal
+2. Buat database dengan nama `library_aol_oop`
+3. Jalankan query SQL untuk membuat tabel `books`
+4. Jalankan query seeder untuk mengisi data awal
 5. Atur username dan password database pada file `DBConfig.java`
 6. Tambahkan PostgreSQL JDBC Driver ke project
-7. Jalankan file `MainApp.java`
+7. Jalankan file `Main.java`
 
 ---
 
@@ -76,7 +76,7 @@ Aplikasi ini dibuat dengan menerapkan konsep Object-Oriented Programming (OOP) d
    Proses pengolahan data disederhanakan melalui class `BookService` dan `BookDAO` sehingga UI tidak berinteraksi langsung dengan database.
 
 3. **Inheritance**  
-   Konsep inheritance diterapkan secara implisit pada JavaFX, di mana class `MainApp` mewarisi class `Application`.
+   Konsep inheritance diterapkan secara implisit pada JavaFX, di mana class `Main` mewarisi class `Application`.
 
 4. **Polymorphism**  
    Digunakan pada penggunaan komponen JavaFX seperti event handler dan method override pada lifecycle JavaFX.
